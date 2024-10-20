@@ -16,7 +16,7 @@ public class IsPrimeNumber {
 			}
 			else {
 				System.out.println("The number "+n+" is not a Prime");
-				break;
+				
 			}
 			
 		}
