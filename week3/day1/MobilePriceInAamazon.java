@@ -34,8 +34,8 @@ public class MobilePriceInAamazon {
 			System.out.println(text);
 			list.add(text);
 		}
+		
 		System.out.println(list);
-
 	}
 
 }
